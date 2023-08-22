@@ -1,6 +1,7 @@
 # pn-decode
 Solve the garbled phonetic characters caused by forgetting to switch the input method.
 
+```shell
 usage: zhuyin.py [-h] [-t] [-e] input_string
 
 Translate between Zhuyin and English characters.
@@ -12,3 +13,4 @@ options:
   -h, --help        show this help message and exit
   -t, --to_zhuyin   Translate to Zhuyin.
   -e, --to_english  Translate to English.
+```
