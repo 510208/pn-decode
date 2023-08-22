@@ -2,6 +2,8 @@
 Solve the garbled phonetic characters caused by forgetting to switch the input method.
 
 ```shell
+C:\Users\acer\Downloads>python zhuyin.py --help
+
 usage: zhuyin.py [-h] [-t] [-e] input_string
 
 Translate between Zhuyin and English characters.
